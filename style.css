@@ -197,7 +197,6 @@
 }
 
 .portfolio {
-  background: url('your-bg-image.jpg') no-repeat center center/cover;
   padding: 5rem 2rem;
   text-align: center;
   color: #fff;
@@ -401,7 +400,7 @@
 }
 
 .portfolio-section h2 {
-  font-family: "Delicious Handrawn", cursive;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 2rem;
   margin-bottom: 2rem;
   color: #003366;
