@@ -22,7 +22,7 @@
     }
 
     .glass-container {
-       background: linear-gradient(135deg, rgba(4, 39, 73, 0.9), rgba(35, 23, 112, 0.7));
+       background: linear-gradient(135deg, #0a3e9177,#003b8e8c);
       backdrop-filter: blur(15px);
       -webkit-backdrop-filter: blur(15px);
       border-radius: 20px;
@@ -149,7 +149,7 @@
 }
 
 .about-glass {
-  background: linear-gradient(135deg, rgba(4, 38, 73, 0.466), rgba(35, 23, 112, 0.7));
+  background: linear-gradient(135deg, #0a3d91,#003b8e);
   backdrop-filter: blur(15px);
   -webkit-backdrop-filter: blur(15px);
   border-radius: 20px;
@@ -275,7 +275,7 @@
 }
 
 .services {
-  background: linear-gradient(135deg, rgba(4, 39, 73, 0.9), rgba(35, 23, 112, 0.7));
+  background: linear-gradient(135deg, #0a3d91,#003b8e);
   padding: 5rem 2rem;
   text-align: center;
   color: #fff;
@@ -496,7 +496,7 @@
 
 
 .footer {
-  background: linear-gradient(135deg, rgba(4, 39, 73, 0.9), rgba(35, 23, 112, 0.7));
+  background: linear-gradient(135deg, #0a3d91,#003b8e);
   color: white;
   padding: 3rem 1.5rem 1rem;
   margin-top: 3rem;
